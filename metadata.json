@@ -1,0 +1,7 @@
+{
+  "name": "AI Image Generator",
+  "description": "A modern web application that allows users to generate images from text prompts using the Gemini API. It features a clean interface, customizable options like aspect ratio, and a dark/light mode.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
